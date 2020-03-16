@@ -35,7 +35,7 @@ install_requires = [
 ]
 
 setup(
-    name = 'opentok',
+    name = 'petters-opentok',
     version = find_version('opentok', 'version.py'),
     description = 'OpenTok server-side SDK',
     long_description=long_description,
